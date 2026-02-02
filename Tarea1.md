@@ -45,7 +45,4 @@ se hablar 3 idiomas (español, portugues e ingles) y soy super dedicada con lo q
 
 ---
 
-## proyecto actual
-Este repositorio fue creado como parte de un ejercicio academico para aprender a trabajar con archivos Markdown y Git
-
 ![Mi foto](img/Abeja.png)
